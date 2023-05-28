@@ -2,6 +2,8 @@
 
 Welcome to your future
 
+This is the readme
+
 ## Install the dependencies
 ```bash
 yarn
